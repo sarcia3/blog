@@ -1,2 +1,4 @@
 title: Sarcia3's Ramblings
 markdown: kramdown
+baseurl: "/blog"
+url: "https://sarcia3.github.io"
